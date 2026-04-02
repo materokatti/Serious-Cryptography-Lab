@@ -1,4 +1,4 @@
-Serious Cryptography Lab
+## Serious Cryptography Lab
 
 A small practice repository for learning cryptography and security.
 
